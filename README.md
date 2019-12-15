@@ -1,6 +1,6 @@
 # React Movie
 
-Any user who need to search about movies. This project interacts with Movie DB API which gives all the movies of the world. The project used React JS 16.8 version
+Any user who need to search about movies. This project interacts with Movie DB API which gives all the movies of the world. The project uses React JS 16.8 version.
 
 ## Installation
 1. After basic react app installation create home, about and contact component and write in src/components/Form.js
