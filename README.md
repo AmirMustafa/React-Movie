@@ -1,4 +1,4 @@
-# React JS Forms
+# React Movie
 
 Any user who need to search about movies. This project interacts with Movie DB API which gives all the movies of the world. The project used React JS 16.8 version
 
