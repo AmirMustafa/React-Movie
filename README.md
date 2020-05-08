@@ -8,4 +8,4 @@ Any user who need to search about movies. This project interacts with Movie DB A
 
 ## Video
 
-https://www.loom.com/share/343f54cf82ad40a8985d278f9fe2c770
+https://www.loom.com/share/32ce7bd54d534e468b992c6837e268a3
